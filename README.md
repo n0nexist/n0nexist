@@ -8,6 +8,6 @@
 ```
 
 # 📫 Contacts
+**Discord:** _𝒏ø𝒏𝒆𝒙𝒊𝒔𝒕🌙#2518_<br>
 **Telegram:** _https://t.me/rr4sp_<br>
-**Discord:** _𝒏ø𝒏𝒆𝒙𝒊𝒔𝒕🌙#2518_
-**Website:**_www.n0nexist.gq_
+**Website:** _www.n0nexist.gq_
