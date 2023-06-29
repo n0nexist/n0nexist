@@ -1,5 +1,5 @@
 ## :information_source: info
-```italian```,```16 yr old```,```developer``` and a ```cybersecurity enthusiast```
+an ```italian``` ```developer``` and a ```cybersecurity enthusiast```
 <br>
 since ```2019```<br><br>
 [![n0nexist's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0nexist&theme=github_dark)](https://github.com/n0nexist)<br>
@@ -9,4 +9,5 @@ since ```2019```<br><br>
 <br>
 ## :construction_worker: working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=doXles&theme=github_dark)](https://github.com/n0nexist/doXles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=Speedh0ck&theme=github_dark)]([https://github.com](https://github.com/n0nexist/Speedh0ck)https://github.com/n0nexist/Speedh0ck)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=Speedh0ck&theme=github_dark)](https://github.com/n0nexist/Speedh0ck)
