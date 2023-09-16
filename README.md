@@ -1,4 +1,4 @@
-## :information_source: info
+## :closed_book: info
 an <b><u>italian</u></b> <b><u>developer</b></u> and a <b><u>cybersecurity enthusiast</b></u>
 <br>
 since <b><u>2019</b></u><br><br>
