@@ -1,7 +1,7 @@
 ## :information_source: info
-an ```italian``` ```developer``` and a ```cybersecurity enthusiast```
+an <code>italian</code> <u>```developer```</u> and a <u>```cybersecurity enthusiast```</u>
 <br>
-since ```2019```<br><br>
+since <u>```2019```</u><br><br>
 [![n0nexist's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0nexist&theme=github_dark)](https://github.com/n0nexist)<br>
 
 ## 📫 contacts
