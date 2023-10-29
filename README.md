@@ -9,4 +9,4 @@ since <b><u>2019</b></u><br><br>
 <br>
 ## :construction_worker: my recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=OmegleChatBot&theme=github_dark)](https://github.com/n0nexist/OmegleChatBot)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=Smackwifi&theme=github_dark)](https://github.com/n0nexist/Smackwifi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=CArpScanner&theme=github_dark)](https://github.com/n0nexist/CArpScanner)
