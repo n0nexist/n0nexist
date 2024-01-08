@@ -9,4 +9,4 @@ since <b><u>2019</b></u><br><br>
 <br>
 ## :construction_worker: my recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=Android-Malware-Template&theme=github_dark)](https://github.com/n0nexist/Android-Malware-Template)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=AirSpyr&theme=github_dark)](https://github.com/n0nexist/AirSpy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=AirSpy&theme=github_dark)](https://github.com/n0nexist/AirSpy)
