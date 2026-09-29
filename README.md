@@ -1,12 +1,69 @@
-## :closed_book: info
-an <b><u>italian</u></b> <b><u>developer</b></u> and a <b><u>cybersecurity enthusiast</b></u>
-<br>
-since <b><u>2019</b></u><br><br>
-[![n0nexist's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0nexist&theme=github_dark)](https://github.com/n0nexist)<br>
+# NØNEXIST's README.md
 
-## 📫 contacts
-<a href="https://t.me/n0ne_xist">```@n0ne_xist```</a>
-<br><br>
-## :construction_worker: my recent projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=Android-Malware-Template&theme=github_dark)](https://github.com/n0nexist/Android-Malware-Template)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0nexist&repo=AirSpy&theme=github_dark)](https://github.com/n0nexist/AirSpy)
+```console
+┌──(n0nexist@github)-[~]
+└─$ whoami
+```
+```text
+italian developer and cybersecurity enthusiast, messing with computers since i was a kid.
+```
+
+---
+
+```console
+┌──(n0nexist@github)-[~]
+└─$ cat about.txt
+```
+
+```text
+I like building things, breaking things, and figuring out how things work.
+
+Mostly interested in:
+  → cybersecurity
+  → Linux
+  → networking
+  → pentesting
+  → OSINT
+```
+
+---
+
+```console
+┌──(n0nexist@github)-[~]
+└─$ ls ./skills
+```
+
+```text
+languages/
+├── Python
+├── Bash
+├── C / C++
+├── JavaScript
+├── PHP
+└── GOLANG
+
+systems/
+├── Linux
+├── Android
+└── Windows
+```
+
+---
+
+```console
+┌──(n0nexist@github)-[~]
+└─$ echo $CURRENTLY_LEARNING
+```
+
+```text
+whatever looks interesting enough to break
+```
+
+---
+
+```console
+┌──(n0nexist@github)-[~]
+└─$ exit
+
+[process exited with code 0]
+```
